@@ -11,15 +11,6 @@ I built a machine learning  model using data from Nature's 2019 survey of Ph.D. 
 
 Included files:
 
-A csv dataset used for model building obtained from Nature’s website.
+A dataset used for model building obtained from Nature’s website.
 
 .ipynb jupyter notebook containing code.
-
-Data dictionary:
-
-Question #| Subject 
-----------|--------
-Q3 | Reason for phd
-Q5 | Where do you currently live?
-Q12s | Did you go to graduate school for this reason?
-Q13 | Do you have a side job?
